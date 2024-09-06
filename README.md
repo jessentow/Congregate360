@@ -8,3 +8,5 @@ Congregate360 a Church Management System (CMS) is designed to address various ad
 5. Volunteer Coordination: Organizes and tracks volunteer activities, assignments, and shifts, helping to ensure that church programs run smoothly.
 6. Attendance Tracking: Monitors attendance for services, events, and classes, which can be used for statistical analysis and planning.
 7. Database Management: Maintains an organized database of members, visitors, and donors, providing easy access to crucial information.
+
+![screenshot-1725600731397](https://github.com/user-attachments/assets/d45fae31-f931-4818-aef4-4468ca816e90)
